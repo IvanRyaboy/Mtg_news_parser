@@ -1,0 +1,2 @@
+create docker compose
+add celery periodic tasks
